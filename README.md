@@ -17,5 +17,5 @@ If you find this data useful for your research, please cite our paper "Pump Up t
 
 ### Ethics
 
-*We contact IP addresses that are advertised as malicious in public blocklists and we do not perform any port scanning. *  
-*In addition, the communication initiated by our machines did not provoke any reaction from system administrators (e.g., email warnings). *
+We contact IP addresses that are advertised as malicious in public blocklists and we do not perform any port scanning. 
+In addition, the communication initiated by our machines did not provoke any reaction from system administrators (e.g., email warnings).
